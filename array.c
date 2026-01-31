@@ -1,5 +1,5 @@
 #include<stdio.h>
- int  main() {
+ void  main() {
 
     int a[10];
     printf("enter arrary elements");
@@ -12,7 +12,7 @@
         printf("%d",a[i]);
 
     }
-    return 0;
+    
  } 
 
 
