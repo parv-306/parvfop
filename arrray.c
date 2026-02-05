@@ -9,7 +9,7 @@ int main() {
 
        }
     }
-    printf("print the elemnt of the matrix:\n");
+    printf("print the elements of the matrix:\n");
     for(i = 0; i < 2; i++)
 {
        for(j = 0; j < 2; j++)
